@@ -8,25 +8,13 @@ import java.time.LocalDate;
 public class Main {
 
     public static void main(String[] args) {
-        Curso curso = new Curso();
-        Mentoria mentoria = new Mentoria();
+        Curso curso = new Curso("Curso java", "descricao curso java", 1);
+        Mentoria mentoria = new Mentoria("Mentoria java", "descricao de mentoria java", LocalDate.now());
 
-        curso.setTitulo("Curso java");
-        curso.setDescricao("descricao curso java");
-        curso.setCargaHoraria(1);
+        Curso curso1 = new Curso("Curso java II", "descricao curso java II", 2);
 
-        mentoria.setTitulo("Mentoria java");
-        mentoria.setDescricao("descricao de mentoria java");
-        mentoria.setData(LocalDate.now());
-
-        Curso curso1 = new Curso();
-
-        curso1.setTitulo("Curso java II");
-        curso1.setDescricao("descricao curso java II");
-        curso1.setCargaHoraria(1);
-
-        System.out.println(curso.toString());
-        System.out.println(mentoria.toString());
-        System.out.println(curso1.toString());
+        System.out.println(curso);
+        System.out.println(mentoria);
+        System.out.println(curso1);
     }
 }
