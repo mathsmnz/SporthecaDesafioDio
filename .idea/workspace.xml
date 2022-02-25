@@ -1,15 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9079a1f3-79bb-43bd-855c-55d60cdd3b84" name="Changes" comment="Mentoria e curso">
-      <change afterPath="$PROJECT_DIR$/src/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dio/desafio/dominio/Conteudo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/dio/desafio/dominio/Dev.java" afterDir="false" />
+    <list default="true" id="9079a1f3-79bb-43bd-855c-55d60cdd3b84" name="Changes" comment="Dev e bootcamp">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DesafioPooDio/com/dio/desafio/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DesafioPooDio/com/dio/desafio/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/dio/desafio/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/desafio/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dio/desafio/dominio/Curso.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/desafio/dominio/Curso.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/dio/desafio/dominio/Mentoria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/desafio/dominio/Mentoria.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dio/desafio/dominio/Bootcamp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/desafio/dominio/Bootcamp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/dio/desafio/dominio/Dev.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/dio/desafio/dominio/Dev.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,6 +91,11 @@
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.dio.desafio.dominio" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.dio.desafio.Main" />
@@ -122,7 +123,7 @@
       <updated>1645750809258</updated>
       <workItem from="1645750811321" duration="1899000" />
       <workItem from="1645752786530" duration="477000" />
-      <workItem from="1645753321645" duration="583000" />
+      <workItem from="1645753321645" duration="2363000" />
     </task>
     <task id="LOCAL-00001" summary="Mentoria e curso">
       <created>1645751696345</created>
@@ -131,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645751696345</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Dev e bootcamp">
+      <created>1645754174368</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645754174368</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -150,6 +158,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Mentoria e curso" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mentoria e curso" />
+    <MESSAGE value="Dev e bootcamp" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dev e bootcamp" />
   </component>
 </project>

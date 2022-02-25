@@ -14,6 +14,10 @@ public class Bootcamp {
     private Set<Dev> devsIncritos =  new HashSet<>();
     private Set<Conteudo> conteudos = new LinkedHashSet<>();
 
+    public Bootcamp(String nome) {
+        setNome(nome);
+    }
+
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
